@@ -2,7 +2,6 @@
 .venv/
 
 # Environment
-.env
 *.env
 
 # Python
@@ -25,7 +24,6 @@ assets/carousel_output/*.png
 assets/carousel_output/*.jpg
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -37,3 +35,5 @@ Thumbs.db
 # Logs
 *.log
 logs/
+config.bat
+node_modules

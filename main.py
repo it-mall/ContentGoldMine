@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """ContentGoldMine — CLI & launcher entry point."""
+import utils.session
 import typer
 import uvicorn
 import subprocess
